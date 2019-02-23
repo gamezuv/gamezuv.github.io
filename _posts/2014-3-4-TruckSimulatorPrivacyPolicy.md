@@ -1,4 +1,6 @@
-## Truck Driving Simulator Game Privacy Policy
+---
+layout: post
+title: Truck Driving Simulator Game Privacy Policy
 
 Utkarsh Vaidya built the Truck Driving Simulator Game app as a Free app. This SERVICE is provided by Utkarsh Vaidya at no cost and is intended for use as is.
 
@@ -61,3 +63,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+---
