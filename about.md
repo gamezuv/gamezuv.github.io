@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Support for the app : Contact E-Mail : gamezuv@gmail.com
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Kindly use the E-Mail listed below to get in contact with us if you have any concerns,issue. experience any problems, desire new features or want to ask questions about the app. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gamezuv@gmail.com](mailto:gamezuv@gmail.com)
