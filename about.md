@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /Support/
+title: Support
+permalink: /About/
 ---
 
 Support for the app : Contact E-Mail : gamezuv@gmail.com
