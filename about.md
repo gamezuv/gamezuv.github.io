@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Support
+title: Support for the App
 permalink: /about/
 ---
 
-Support for the app : Contact E-Mail : gamezuv@gmail.com
+Contact E-Mail : gamezuv@gmail.com
 
 ### More Information
 
