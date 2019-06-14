@@ -24,6 +24,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 *   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
 *   [Unity Ads and Unity Analytics](http://unity3d.com/legal/privacy-policy)
+*   [Unity GDRP]https://unity3d.com/legal/gdpr
 
 **Log Data**
 
