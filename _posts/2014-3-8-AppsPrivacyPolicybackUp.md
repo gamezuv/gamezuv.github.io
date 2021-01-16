@@ -123,6 +123,33 @@ We do not intentionally gather personal data from users who are under the age of
 CHANGES TO THE POLICY
 We reserve the right to change this Policy at any time.  If we decide to change this Policy, we will post those changes on this page and update the date at the top of the page.  The changes will be effective when posted.  Please check this page on a regular basis so that you remain aware of what information we collect and how we use it.
 
+
+Request user data deletion
+When you install and use “Utkarsh Vaidya” mobile applications, we can collect and process some of your data for different legitimate purposes.
+You will find below explanations regarding the reasons why we may collect data.
+ 
+Why is data collected
+“Utkarsh Vaidya” and its third-party partners collect data: 
+To provide you with the services you asked for
+To run analytics and understand how users interact with our product and services in order to continuously improve it
+The third-party partners that “Utkarsh Vaidya” will share the data with are: 
+GameAnalytics
+Facebook Analytics
+Voodoo
+Data deletion requests
+To delete user data collected by “Utkarsh Vaidya”, please reach out to “gamezuv@gmail.com”.
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
+GameAnalytics:
+email: privacy@gameanalytics.com 
+privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+Facebook Analytics:
+email: none, please refer to the privacy policy
+privacy policy: https://www.facebook.com/policy.php
+Voodoo:
+Voodoo does not collect any of your personal data, and only provides an SDK package to retrieve the data collected by the above mentioned partners. You can still contact them to request the deletion of their accesses to the partners’ interfaces.
+email: dpo@voodoo.io
+
+
 CONTACT INFORMATION
 If you have any questions about this Policy, please contact us at gamezuv@gmail.com
 
