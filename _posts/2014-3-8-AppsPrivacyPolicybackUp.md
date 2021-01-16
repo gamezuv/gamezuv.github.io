@@ -123,8 +123,8 @@ We do not intentionally gather personal data from users who are under the age of
 CHANGES TO THE POLICY
 We reserve the right to change this Policy at any time.  If we decide to change this Policy, we will post those changes on this page and update the date at the top of the page.  The changes will be effective when posted.  Please check this page on a regular basis so that you remain aware of what information we collect and how we use it.
 
+**Request user data deletion**
 
-Request user data deletion
 When you install and use “Utkarsh Vaidya” mobile applications, we can collect and process some of your data for different legitimate purposes.
 You will find below explanations regarding the reasons why we may collect data.
  
