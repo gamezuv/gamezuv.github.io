@@ -27,7 +27,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Unity GDRP](https://unity3d.com/legal/gdpr) 
 *   [Game Analytics ](https://gameanalytics.com/privacy) 
 *   [Appsflyer](https://www.appsflyer.com/services-privacy-policy) 
-
+*   [YSOCorp / GameUtils](https://www.ysocorp.com/privacy-policy) 
 
 **Log Data**
 
